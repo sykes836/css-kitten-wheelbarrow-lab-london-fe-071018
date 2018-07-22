@@ -2,8 +2,8 @@
 
 /*__write_selector_here__*/
  
-.kitty1
-  {
+*kitty-1 
+{
   position: absolute;
   z-index: 1;
   top: 276px;
